@@ -34,5 +34,6 @@
 
 ## Projects
 
+Write a script that lists all databases in MongoDB.
 - [0-list_databases](/0x01-NoSQL/0-list_databases)
 
